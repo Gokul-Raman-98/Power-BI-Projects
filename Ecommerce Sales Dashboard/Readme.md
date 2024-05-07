@@ -19,7 +19,7 @@ A US based Ecommerce Sales company requires a Sales Dashboard showing informatio
 
 2. An additional Calendar table was created with CALENDAR DAX function for running YTD DAX function.
 
-## DAX MEASURES.
+## DAX Measures.
 23 DAX measures were used. The prominent measures include YTD Sales, YTD Profit, YTD Quantity, YTD Profit Margin, PYTD Sales, PYTD Profit, PYTD Quantity, PYTD Profit Margin, YoY Sales, YoY Profit, YoY Quantity, YoY Profit Margin.
 
 ![Sales](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/8f444451-3924-44e1-abc3-c50dce3828ed)
