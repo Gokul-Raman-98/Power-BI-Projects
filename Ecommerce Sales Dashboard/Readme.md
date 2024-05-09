@@ -3,7 +3,7 @@
 
 
 ## Project Description
-A US based Ecommerce Sales company requires a Sales Dashboard showing information of YTD Sales and generate business insights. The description for each visual is given below.
+### A US based Ecommerce Sales company requires a Sales Dashboard showing information of YTD Sales and generate business insights. The description for each visual is given below.
 
 
 1. The KPI Banner shows YTD Sales, YTD profit, YTD Quantity Sold, YTD Profit Margin.
