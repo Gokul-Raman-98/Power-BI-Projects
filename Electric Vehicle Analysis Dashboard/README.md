@@ -1,4 +1,4 @@
-# POWER BI - ELECTRIC VEHICLE ANALYSIS DASHBOARD
+# POWER BI - ELECTRIC VEHICLE ANALYSIS DASHBOARD | (Download dataset and pbix file in the attachments given above)
 ![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/a5d50275-a0ae-4fad-b503-10526e3f93d4)
 
 
@@ -20,3 +20,26 @@
 2. An additional Measures table was created based on the given dataset.
 
 ## DAX Measures.
+Six DAX measures were used in total. The measures include Total Vehicles, PHEV Vehicles, BEV Vehicles, Avg Range, % of BEV, % of PHEV
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/4e3b7691-b41e-46f7-b459-7a46f88214bd)
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/14556dfc-e28c-4837-803d-81d71c9e6f94)
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/537a4da5-4e74-4964-87bf-bbea4883d90a)
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/45deae65-672e-42da-a3c3-3ccbc158c81f)
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/263b508f-d73b-422a-9850-9f5cbf695b29)
+
+![image](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/91a31c73-2eeb-4731-a56c-528954ec7edc)
+
+
+## Dashboard Insights
+1. The Year 2023 has seen the highest soldout in the BEV and PHEV vehicles.
+
+2. BEV Vehicles are majority in the american market compared to PHEV.
+
+3. Tesla company has made the highest number of BEV vehicles and Toyota has made the highest number of PHEV vehicles.
+
+4. Tesla cars have received most of the CAFV rating.
