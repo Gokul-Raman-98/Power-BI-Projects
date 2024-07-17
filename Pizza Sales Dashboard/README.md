@@ -7,8 +7,8 @@
 ### A pizza company report showing the business insights for the pizzas sold in the year 2015.
 
 1. The KPI banner shows the Total Revenue, Average order value, Total pizzas sold, Total Orders and Average pizzas per order.
-2. Derived the daily and Monthly trend for the pizzas sold for the year 2015.
-3. Finding the total number of pizzas sold as per the pizza category as wel as the percntage sales.
+2. Derived the daily and monthly trend for the pizzas sold for the year 2015.
+3. Finding the total number of pizzas sold as per the pizza category as well as the percentage sales.
 4. Identifying the top 5 and bottom 5 pizzas with respect to Revenue, Quantity and Orders.
 
 ## Dataset Model
