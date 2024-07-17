@@ -7,7 +7,7 @@
 
 
 1. The KPI Banner shows the Total vehicles manufactured, the Average electric range and the number of PHEV and BEV vehicles produced with their respective percentage.
-2. Identifed the Total vehicles trend over time with respect to the years 2010-2024.
+2. Identifed the Total vehicles trend over time with respect to the years 2011-2024.
 3. Identified the total number of vehicles sold with respect to the manufacturers and with respect to the vehicle model.
 4. Segregation the vehicles as per the Clean Alternative Fuel Vehicle (CAFV) Eligibility.
 
