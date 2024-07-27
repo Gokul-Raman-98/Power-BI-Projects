@@ -15,3 +15,9 @@
 7. A custom bar chart to analyze sales performance across different beverage categories.
 8. A custom bar chart to display top 10 products based on sales volume.
 9. A heat map visual is used to visualise sales patterns with respect to days and hours. 
+
+## Dataset Model
+![image](https://github.com/user-attachments/assets/e59b0b78-7a82-4150-866c-5f396f694036)
+
+1. Dataset consists of an Excel file. The file consist of store location, product category, product type and product detail.
+2. An additional date table was created using Calendar DAX Function.
