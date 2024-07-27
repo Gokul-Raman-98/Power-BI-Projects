@@ -48,3 +48,23 @@ Twenty one DAX measures were used in Total. The prominent ones Include Total Sal
 ![image](https://github.com/user-attachments/assets/683a8622-a946-4952-a229-282f6eba4e57)
 
 ![image](https://github.com/user-attachments/assets/f86937d8-0368-4bb8-9925-cc24887ad801)
+
+## DAX Measures for the Date Table
+
+![image](https://github.com/user-attachments/assets/b3e074f0-fa02-419f-90c1-34d3d43c24de)
+
+![image](https://github.com/user-attachments/assets/ed30747b-5c4a-463a-b977-f4b647d9fabc)
+
+![image](https://github.com/user-attachments/assets/78494eb7-3dc2-4554-893e-4840ba62d1d5)
+
+![image](https://github.com/user-attachments/assets/2a4b72dc-1011-4390-b156-5e2d81a6119f)
+
+![image](https://github.com/user-attachments/assets/b61cce5d-3591-48fb-a5e5-af9b0a3fe3ed)
+
+![image](https://github.com/user-attachments/assets/bb154a8a-8e4b-479e-a79f-a6a3b74638fe)
+
+![image](https://github.com/user-attachments/assets/ad0fa539-ef6c-466e-b0ae-5a149d0ccb1f)
+
+![image](https://github.com/user-attachments/assets/46f6797b-2ee9-4ef3-87da-3b611e2e5519)
+
+![image](https://github.com/user-attachments/assets/3bed010b-c6a1-4f13-b98e-a60b3dce67f2)
