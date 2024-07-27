@@ -21,3 +21,30 @@
 
 1. Dataset consists of an Excel file. The file consist of store location, product category, product type and product detail.
 2. An additional date table was created using Calendar DAX Function.
+
+## DAX Measures.
+Twenty one DAX measures were used in Total. The prominent ones Include Total Sales, Total Orders, Total quantity, Current Month Sales, Current Month Quantity, Current Month Orders, Previous Month Sales, Previous Quantity, Previous Month Orders, MoM Sales growth, MoM Orders growth, MoM Quantity growth.
+
+![image](https://github.com/user-attachments/assets/c719527b-584e-42b3-ba5a-13f562dc4b50)
+
+![image](https://github.com/user-attachments/assets/db74b7cd-c2e5-4b8d-8aa2-4f0058412801)
+
+![image](https://github.com/user-attachments/assets/b4cf520a-19c6-4c2b-976a-5947b32ef043)
+
+![image](https://github.com/user-attachments/assets/84e7b016-d16f-4ac5-98a3-2f1425b9bccc)
+
+![image](https://github.com/user-attachments/assets/f4c1efb6-c273-4e79-9a3a-3395523c283b)
+
+![image](https://github.com/user-attachments/assets/937970ff-3af1-4bd2-9e45-9cdc19d8b5d7)
+
+![image](https://github.com/user-attachments/assets/7b4dea1b-84a4-4081-a28c-b302b3e716a0)
+
+![image](https://github.com/user-attachments/assets/0a2d1c7e-cb83-4f6d-9601-73cbe532a1ce)
+
+![image](https://github.com/user-attachments/assets/27fa55e8-3a2d-47ad-87e2-adb780e5f8aa)
+
+![image](https://github.com/user-attachments/assets/310c1557-2f27-41d5-a711-18276b3dcef1)
+
+![image](https://github.com/user-attachments/assets/683a8622-a946-4952-a229-282f6eba4e57)
+
+![image](https://github.com/user-attachments/assets/f86937d8-0368-4bb8-9925-cc24887ad801)
