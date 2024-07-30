@@ -71,7 +71,7 @@ Twenty one DAX measures were used in Total. The prominent ones Include Total Sal
 
 
 ## Dashboard Insights
-1. The month of JUne has made the largest sales around $ 166K. January has made the least sales aroung $ 82K.
+1. The month of June has made the largest sales around $ 166K. January has made the least sales aroung $ 82K.
 
 2. Weekday sales contributes to the majority of the revenue.
 
