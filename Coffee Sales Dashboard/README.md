@@ -77,6 +77,6 @@ Twenty one DAX measures were used in Total. The prominent ones Include Total Sal
 
 3. Coffee stands out to be highest evenue making product and packaged chocolate is the least revenue making product.
 
-4. Barista E  spresso is the most liked coffee for the customers whereas drip coffee is the least favourite coffee for the customers.
+4. Barista Espresso is the most liked coffee for the customers whereas drip coffee is the least favourite coffee for the customers.
 
 5. Majority of the sales are happening between the time span of 07:00 am to 10.00 am irrespective of the days.
