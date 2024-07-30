@@ -68,3 +68,15 @@ Twenty one DAX measures were used in Total. The prominent ones Include Total Sal
 ![image](https://github.com/user-attachments/assets/46f6797b-2ee9-4ef3-87da-3b611e2e5519)
 
 ![image](https://github.com/user-attachments/assets/3bed010b-c6a1-4f13-b98e-a60b3dce67f2)
+
+
+## Dashboard Insights
+1. The month of JUne has made the largest sales around $ 166K. January has made the least sales aroung $ 82K.
+
+2. Weekday sales contributes to the majority of the revenue.
+
+3. Coffee stands out to be highest evenue making product and packaged chocolate is the least revenue making product.
+
+4. Barista E  spresso is the most liked coffee for the customers whereas drip coffee is the least favourite coffee for the customers.
+
+5. Majority of the sales are happening between the time span of 07:00 am to 10.00 am irrespective of the days.
