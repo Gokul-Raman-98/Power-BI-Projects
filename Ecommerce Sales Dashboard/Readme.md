@@ -28,6 +28,8 @@ Twenty three DAX measures were used. The prominent measures include YTD Sales, Y
 
 ![Profit](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/f397d505-34c4-4b91-a718-bb0d9f99db43)
 
+![image](https://github.com/user-attachments/assets/b8683b65-47f0-4bdc-bd9d-23680c8c12de)
+
 ![Profit Margin](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/8895f62c-2504-4a1f-9c01-0b13825d3d8b)
 
 ![Sales](https://github.com/Gokul-Raman-98/Power-BI-Projects/assets/168402268/d33cba1d-b469-4b26-ae7d-014458d1625e)
