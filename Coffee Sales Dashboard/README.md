@@ -1,5 +1,6 @@
 # POWER BI - Coffee Shop Sales Dashboard | (Download dataset and pbix file in the attachments given above)
-![image](https://github.com/user-attachments/assets/24c7af91-f196-4f47-aab9-ae6e37cf9907)
+![image](https://github.com/user-attachments/assets/e7a36c49-3747-4b78-bf29-e4e8600cce4f)
+
 
 
 ## Project Description
