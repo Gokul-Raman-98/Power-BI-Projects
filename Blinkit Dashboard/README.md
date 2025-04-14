@@ -11,5 +11,8 @@
 2. An area chart displays the total sales for the years 2011 till 2022.
 3. A donut chart for dispalying sales for each outlet size.
 4. A funnel Chart for dislaying the sales for each outlet tier.
-5. A matrix visual for displaying the overall particulars for each outlet type.
-6. Using a field based parameter for 
+5. A matrix visual for displaying the overall measure values for each outlet type.
+6. Using a field based parameter for all calculated measures to display fat content and Item Type particulars.
+
+## Dataset Model
+![image](https://github.com/user-attachments/assets/7a339c86-4765-41c7-ad72-357b631481ca)
