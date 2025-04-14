@@ -31,5 +31,11 @@ Four DAX Measures were used in total. They Include Total Sales, Average Sales, N
 
 ![image](https://github.com/user-attachments/assets/86d4d2c4-3d29-4b7f-b5d0-234bb11ce97f)
 
+## Dashboard Insights
+1. The Year 2018 has witnessed the maximum number of Sales of around $295k.
 
+2. Fruits and vegetables are the most sold items in most of the blinkit outlets.
 
+3. Outlets in tier 3 locations are getting more sales than in tier 1 and 2 locations.
+
+4. Type 1 supermarkets tend to lure in more customers than other outlet types.
