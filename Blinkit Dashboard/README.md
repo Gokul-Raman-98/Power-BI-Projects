@@ -16,3 +16,20 @@
 
 ## Dataset Model
 ![image](https://github.com/user-attachments/assets/7a339c86-4765-41c7-ad72-357b631481ca)
+
+1. Dataset consists of an Excel file. The file has Item Type, Fat content, Outlet Location type and size, Sales and rating Details.
+2. An additional metrics parameter was created using the field parameter function.
+
+## DAX Measures.
+Four DAX Measures were used in total. They Include Total Sales, Average Sales, No.of items and Average Rating.
+
+![image](https://github.com/user-attachments/assets/04d7ebef-dc0e-4458-9b7a-1a6160085bdf)
+
+![image](https://github.com/user-attachments/assets/3ae23700-98dd-41c6-b216-c2357e7f6699)
+
+![image](https://github.com/user-attachments/assets/ded2a1a2-2ef0-485d-b5ff-7c938123c041)
+
+![image](https://github.com/user-attachments/assets/86d4d2c4-3d29-4b7f-b5d0-234bb11ce97f)
+
+
+
