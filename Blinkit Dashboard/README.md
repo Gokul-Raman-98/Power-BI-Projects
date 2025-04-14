@@ -38,4 +38,4 @@ Four DAX Measures were used in total. They Include Total Sales, Average Sales, N
 
 3. Outlets in tier 3 locations are getting more sales than in tier 1 and 2 locations.
 
-4. Type 1 supermarkets tend to lure in more customers than other outlet types.
+4. Type 1 supermarkets tend to lure in more customers than other outlet types irrespective of location and outlet size.
